@@ -63,3 +63,9 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+pre{
+  -moz-tab-size: 2;
+  -o-tab-size:   2;
+  tab-size:      2;
+}
